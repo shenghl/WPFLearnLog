@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFFoundationOfLayout", "WPF\WPFFoundationOfLayout.csproj", "{9C467411-804D-4C3B-802A-5AA56CBDAF69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LearingDemo", "LearingDemo", "{5513C434-3467-4612-B6BF-0EC86A3A508A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C467411-804D-4C3B-802A-5AA56CBDAF69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C467411-804D-4C3B-802A-5AA56CBDAF69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C467411-804D-4C3B-802A-5AA56CBDAF69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C467411-804D-4C3B-802A-5AA56CBDAF69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9C467411-804D-4C3B-802A-5AA56CBDAF69} = {5513C434-3467-4612-B6BF-0EC86A3A508A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C2C888B-5E8F-423E-AE6E-65C5DAF08F06}
+	EndGlobalSection
+EndGlobal
